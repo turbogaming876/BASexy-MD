@@ -123,120 +123,120 @@ switch(command) {
 
 case 'help': {
   let menu = `
-🌀 *BotsApp Menu* 🌀
+🦄 *DarcoVampire-MD Menu* 🦄
 Use ${prefix}help command for detailed info on a module.
 
 
-🤖 *Command* - ${prefix}add
-💡 *Info* - Module to add a person to a group.
+🔍 *Command* - ${prefix}add
+🥰 *Info* - Module to add a person to a group.
 
-🤖 *Command* - ${prefix}alive
-💡 *Info* - Check if bot is online.
+🔍 *Command* - ${prefix}alive
+🥰 *Info* - Check if bot is online.
 
-🤖 *Command* - ${prefix}antilink
-💡 *Info* - When enables will remove naughty link posters.
+🔍 *Command* - ${prefix}antilink
+🥰 *Info* - When enables will remove naughty link posters.
 
-🤖 *Command* - ${prefix}block
-💡 *Info* - Block contact.
+🔍 *Command* - ${prefix}block
+🥰 *Info* - Block contact.
 
-🤖 *Command* - ${prefix}broadcast
-💡 *Info* - broadcast to all groups.
+🔍 *Command* - ${prefix}broadcast
+🥰 *Info* - broadcast to all groups.
 
-🤖 *Command* - ${prefix}delete
-💡 *Info* - Reply message that bot sent to delete.
+🔍 *Command* - ${prefix}delete
+🥰 *Info* - Reply message that bot sent to delete.
 
-🤖 *Command* - ${prefix}demote
-💡 *Info* - Demote a person from admin.
+🔍 *Command* - ${prefix}demote
+🥰 *Info* - Demote a person from admin.
 
-🤖 *Command* - ${prefix}ephemeral
-💡 *Info* - enable and diasable comands for group designated.
+🔍 *Command* - ${prefix}ephemeral
+🥰 *Info* - enable and diasable comands for group designated.
 
-🤖 *Command* - ${prefix}group on/off
-💡 *Info* - on or off the bot for the group or to admins only.
+🔍 *Command* - ${prefix}group on/off
+🥰 *Info* - on or off the bot for the group or to admins only.
 
-🤖 *Command* - ${prefix}help
-💡 *Info* - Get the command list and info on modules.
+🔍 *Command* - ${prefix}help
+🥰 *Info* - Get the command list and info on modules.
 
-🤖 *Command* - ${prefix}hidetag
-💡 *Info* - Magically tagall.
+🔍 *Command* - ${prefix}hidetag
+🥰 *Info* - Magically tagall.
 
-🤖 *Command* - ${prefix}kick
-💡 *Info* - Module to remove a person from a group.
+🔍 *Command* - ${prefix}kick
+🥰 *Info* - Module to remove a person from a group.
 
-🤖 *Command* - ${prefix}linkgroup
-💡 *Info* - Module to create group invite link.
+🔍 *Command* - ${prefix}linkgroup
+🥰 *Info* - Module to create group invite link.
 
-🤖 *Command* - ${prefix}self
-💡 *Info* - privet bot enable.
+🔍 *Command* - ${prefix}self
+🥰 *Info* - privet bot enable.
 
-🤖 *Command* - ${prefix}tomp3
-💡 *Info* - convert to mp3.
+🔍 *Command* - ${prefix}tomp3
+🥰 *Info* - convert to mp3.
 
-🤖 *Command* - ${prefix}togif
-💡 *Info* - convert to Gify.
+🔍 *Command* - ${prefix}togif
+🥰 *Info* - convert to Gify.
 
-🤖 *Command* - ${prefix}eval
-💡 *Info* - CMD.
+🔍 *Command* - ${prefix}eval
+🥰 *Info* - CMD.
 
-🤖 *Command* - ${prefix}promote
-💡 *Info* - Promote a member to admin.
+🔍 *Command* - ${prefix}promote
+🥰 *Info* - Promote a member to admin.
 
-🤖 *Command* - ${prefix}play
-💡 *Info* - Download songs from YT.
+🔍 *Command* - ${prefix}play
+🥰 *Info* - Download songs from YT.
 
-🤖 *Command* - ${prefix}public
-💡 *Info* - public bot enable.
+🔍 *Command* - ${prefix}public
+🥰 *Info* - public bot enable.
 
-🤖 *Command* - ${prefix}pinterest
-💡 *Info* - Grab random image from pintrest.
+🔍 *Command* - ${prefix}pinterest
+🥰 *Info* - Grab random image from pintrest.
 
-🤖 *Command* - ${prefix}quotesanime
-💡 *Info* - search random anime quotes of your favorite anime.
+🔍 *Command* - ${prefix}quotesanime
+🥰 *Info* - search random anime quotes of your favorite anime.
 
-🤖 *Command* - ${prefix}revoke
-💡 *Info* - Module to reset groupchat link.
+🔍 *Command* - ${prefix}revoke
+🥰 *Info* - Module to reset groupchat link.
 
-🤖 *Command* - ${prefix}sticker
-💡 *Info* - Module to convert image to sticker.
+🔍 *Command* - ${prefix}sticker
+🥰 *Info* - Module to convert image to sticker.
 
-🤖 *Command* - ${prefix}setname
-💡 *Info* - Module to rename a pdf or text document.
+🔍 *Command* - ${prefix}setname
+🥰 *Info* - Module to rename a pdf or text document.
 
-🤖 *Command* - ${prefix}setppgrup
-💡 *Info* - Change the group icon.
+🔍 *Command* - ${prefix}setppgrup
+🥰 *Info* - Change the group icon.
 
-🤖 *Command* - ${prefix}setdesk
-💡 *Info* - Set the group discription.
+🔍 *Command* - ${prefix}setdesk
+🥰 *Info* - Set the group discription.
 
-🤖 *Command* - ${prefix}tagall
-💡 *Info* - Module to tag evryone in a group.
+🔍 *Command* - ${prefix}tagall
+🥰 *Info* - Module to tag evryone in a group.
 
-🤖 *Command* - ${prefix}toaudio
-💡 *Info* - Convert any media with audio to mp3 audio.
+🔍 *Command* - ${prefix}toaudio
+🥰 *Info* - Convert any media with audio to mp3 audio.
 
-🤖 *Command* -  ${prefix}toimg
-💡 *Info* - Module to convert sticker to image.
+🔍 *Command* -  ${prefix}toimg
+🥰 *Info* - Module to convert sticker to image.
 
-🤖 *Command* - ${prefix}tovideo
-💡 *Info* - Module to convert animated sticker to video.
+🔍 *Command* - ${prefix}tovideo
+🥰 *Info* - Module to convert animated sticker to video.
 
-🤖 *Command* - ${prefix}unblock
-💡 *Info* - Unblock contact.
+🔍 *Command* - ${prefix}unblock
+🥰 *Info* - Unblock contact.
 
-🤖 *Command* - ${prefix}wallpaper
-💡 *Info* - Search wallpaper of anything.
+🔍 *Command* - ${prefix}wallpaper
+🥰 *Info* - Search wallpaper of anything.
 
-🤖 *Command* - ${prefix}wikimedia
-💡 *Info* - Search randommedia of any subject. Example: .wikimedia robots
+🔍 *Command* - ${prefix}wikimedia
+🥰 *Info* - Search randommedia of any subject. Example: .wikimedia robots
 
-🤖 *Command* - ${prefix}ytmp3
-💡 *Info* - Convert a YT video to mp3.
+🔍 *Command* - ${prefix}ytmp3
+🥰 *Info* - Convert a YT video to mp3.
 
-🤖 *Command* - ${prefix}ytmp4
-💡 *Info* - download any YT video.
+🔍 *Command* - ${prefix}ytmp4
+🥰 *Info* - download any YT video.
 
-🤖 *Command* - ${prefix}yts
-💡 *Info* - Get recommendations and links from Youtube.
+🔍 *Command* - ${prefix}yts
+🥰 *Info* - Get recommendations and links from Youtube.
   `
   let but = []
   ichi.sendButtonImg(m.chat, menu, global.ownerName, global.thumb, but)
@@ -273,7 +273,7 @@ const used = process.memoryUsage()
   neww = performance.now()
   oldd = performance.now()
 respon = `
- 💠 BotsApp has been integrated successfully. 💠\n\nUse the   *.help*   command to get a list of plugins that will make your WhatsApp experience much easier.\n\nIf you are impressed with my service, consider supporting the Bot on GitHub-\n https://https://github.com/blknighthat/BASexy-MD\n\nCheck out our official website for any new updates.
+ 💠 DarcoVampire-MD has been integrated successfully. 💠\n\nUse the   *.help*   command to get a list of plugins that will make your WhatsApp experience much easier.\n\nIf you are impressed with my service, consider supporting the Bot on GitHub-\n https://https://github.com/turbogaming876/DarcoVampire-MD\n\nAnd This Is Private Git.
 \n\n💠 Runtime : ${runtime(process.uptime())} 💠
 `
   m.reply(respon)
